@@ -179,7 +179,7 @@ export default function App() {
       <div className="header">
         <div className="header-left">
           <h1>Object Detection</h1>
-          <p>SSD MobileNet V2 · COCO · FastAPI · React</p>
+          <p>YOLOv8 · COCO · FastAPI · Render · React · Netlify</p>
         </div>
         <div className={`status-badge ${isRunning ? "active" : ""}`}>
           <div className="pulse-dot" />
